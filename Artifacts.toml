@@ -1,0 +1,135 @@
+[[hyperfine]]
+arch = "aarch64"
+git-tree-sha1 = "d6500779ca7d2d2a90cac9b4f48cc97950b1f35c"
+os = "macos"
+
+    [[hyperfine.download]]
+    sha256 = "ef7265a5ebc7575c940036b2a72729cb68c7320477046e628d885821c7771559"
+    url = "https://github.com/JuliaBinaryWrappers/hyperfine_jll.jl/releases/download/hyperfine-v1.15.0+0/hyperfine.v1.15.0.aarch64-apple-darwin.tar.gz"
+[[hyperfine]]
+arch = "aarch64"
+git-tree-sha1 = "b993ef0ef2a9b8eafab41e7d4af6f7e81be43a3c"
+libc = "glibc"
+os = "linux"
+
+    [[hyperfine.download]]
+    sha256 = "296305166a15dbd2d9ceaa9d73f327194863d4b925ebcaf357dcefb777d8808d"
+    url = "https://github.com/JuliaBinaryWrappers/hyperfine_jll.jl/releases/download/hyperfine-v1.15.0+0/hyperfine.v1.15.0.aarch64-linux-gnu.tar.gz"
+[[hyperfine]]
+arch = "aarch64"
+git-tree-sha1 = "cdc556304e1ae5984127c2207a8c8b6774b7a7a6"
+libc = "musl"
+os = "linux"
+
+    [[hyperfine.download]]
+    sha256 = "1dca979da9f9cdffca8ad598024628ec73250ed96e5f096bf8578c7459f407d1"
+    url = "https://github.com/JuliaBinaryWrappers/hyperfine_jll.jl/releases/download/hyperfine-v1.15.0+0/hyperfine.v1.15.0.aarch64-linux-musl.tar.gz"
+[[hyperfine]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "fa9fb385392f3cc964e153d2b156e389bb48f989"
+libc = "glibc"
+os = "linux"
+
+    [[hyperfine.download]]
+    sha256 = "42d62ccd8cf432607afc06fa81af5efc0d38d661765a6347f321cad233ff3d4a"
+    url = "https://github.com/JuliaBinaryWrappers/hyperfine_jll.jl/releases/download/hyperfine-v1.15.0+0/hyperfine.v1.15.0.armv6l-linux-gnueabihf.tar.gz"
+[[hyperfine]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d445d9cfe1599584d77dab3952fadcb95ab4a985"
+libc = "musl"
+os = "linux"
+
+    [[hyperfine.download]]
+    sha256 = "905bf0056b9b7853dbe4bd36f81fef46b8adb9f54225afb10eb3b0ad12a0f743"
+    url = "https://github.com/JuliaBinaryWrappers/hyperfine_jll.jl/releases/download/hyperfine-v1.15.0+0/hyperfine.v1.15.0.armv6l-linux-musleabihf.tar.gz"
+[[hyperfine]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f006c85482cbd2d43bbc49b95cb6f7f8b3e47361"
+libc = "glibc"
+os = "linux"
+
+    [[hyperfine.download]]
+    sha256 = "55e1701b7fa3bd1c282b303613d9775e2090b1a0ba5a741d84ce293e619a0727"
+    url = "https://github.com/JuliaBinaryWrappers/hyperfine_jll.jl/releases/download/hyperfine-v1.15.0+0/hyperfine.v1.15.0.armv7l-linux-gnueabihf.tar.gz"
+[[hyperfine]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "49522fb98b974e73e5e0a6db679e539b9088827b"
+libc = "musl"
+os = "linux"
+
+    [[hyperfine.download]]
+    sha256 = "24bc1e8c5382bd9d812f5b46024ed54ac791f01d28930deebb4f575381394ada"
+    url = "https://github.com/JuliaBinaryWrappers/hyperfine_jll.jl/releases/download/hyperfine-v1.15.0+0/hyperfine.v1.15.0.armv7l-linux-musleabihf.tar.gz"
+[[hyperfine]]
+arch = "i686"
+git-tree-sha1 = "732eddcfe3d0e7f4425655e88c6978dba2f9bd4b"
+libc = "glibc"
+os = "linux"
+
+    [[hyperfine.download]]
+    sha256 = "0eb09a4ae7bcbb11e57268138c40eb338bf428cb0be81f193c5df215fb8638f4"
+    url = "https://github.com/JuliaBinaryWrappers/hyperfine_jll.jl/releases/download/hyperfine-v1.15.0+0/hyperfine.v1.15.0.i686-linux-gnu.tar.gz"
+[[hyperfine]]
+arch = "i686"
+git-tree-sha1 = "95f62b03bad1db3ac6d19c1e8418ef88724be886"
+libc = "musl"
+os = "linux"
+
+    [[hyperfine.download]]
+    sha256 = "bfccceebd044e026afed7c3e56a59e715a65f6b3e1d457c4dcb9db2eac113b3f"
+    url = "https://github.com/JuliaBinaryWrappers/hyperfine_jll.jl/releases/download/hyperfine-v1.15.0+0/hyperfine.v1.15.0.i686-linux-musl.tar.gz"
+[[hyperfine]]
+arch = "powerpc64le"
+git-tree-sha1 = "0477dfea6e2c64b52a99306fb31a05aad2aee200"
+libc = "glibc"
+os = "linux"
+
+    [[hyperfine.download]]
+    sha256 = "6112ee63603ba926949f9a8bcec9cd841030cf2511477365d7adfc6799df7564"
+    url = "https://github.com/JuliaBinaryWrappers/hyperfine_jll.jl/releases/download/hyperfine-v1.15.0+0/hyperfine.v1.15.0.powerpc64le-linux-gnu.tar.gz"
+[[hyperfine]]
+arch = "x86_64"
+git-tree-sha1 = "a5a64d1a3f7d1aa30069f5c8b230bd17133cecfa"
+os = "macos"
+
+    [[hyperfine.download]]
+    sha256 = "52e2619a5faac789b79f765ba18b7f5e4e69f3536cdf66fc6569b6c8446b8a30"
+    url = "https://github.com/JuliaBinaryWrappers/hyperfine_jll.jl/releases/download/hyperfine-v1.15.0+0/hyperfine.v1.15.0.x86_64-apple-darwin.tar.gz"
+[[hyperfine]]
+arch = "x86_64"
+git-tree-sha1 = "695d941c906328ec4ae189776cf2cc648ff17596"
+libc = "glibc"
+os = "linux"
+
+    [[hyperfine.download]]
+    sha256 = "3ab60314e0025fcc75049851e559d2ba45743ee9fcca4fccdfdfd86f29dc9bcf"
+    url = "https://github.com/JuliaBinaryWrappers/hyperfine_jll.jl/releases/download/hyperfine-v1.15.0+0/hyperfine.v1.15.0.x86_64-linux-gnu.tar.gz"
+[[hyperfine]]
+arch = "x86_64"
+git-tree-sha1 = "12a84efc064ac86c2a3ec042cb4652c3de4a7878"
+libc = "musl"
+os = "linux"
+
+    [[hyperfine.download]]
+    sha256 = "5dee1f0f85a12d80bf0947a1c445a74cbe286b6c5a447013bab940acaa363309"
+    url = "https://github.com/JuliaBinaryWrappers/hyperfine_jll.jl/releases/download/hyperfine-v1.15.0+0/hyperfine.v1.15.0.x86_64-linux-musl.tar.gz"
+[[hyperfine]]
+arch = "x86_64"
+git-tree-sha1 = "d3311285cb073ef7fa0a7dec4ed9cefc4eb83567"
+os = "freebsd"
+
+    [[hyperfine.download]]
+    sha256 = "aa85717dc13c68038ca4ea9b1982fcd2d0b0e22133e169d06522c3aaa96eb88d"
+    url = "https://github.com/JuliaBinaryWrappers/hyperfine_jll.jl/releases/download/hyperfine-v1.15.0+0/hyperfine.v1.15.0.x86_64-unknown-freebsd.tar.gz"
+[[hyperfine]]
+arch = "x86_64"
+git-tree-sha1 = "8a54e5a285516cf52f51a461e1a9fb5c004b9760"
+os = "windows"
+
+    [[hyperfine.download]]
+    sha256 = "10890bba3f3c1b552d0e1c9670ff6f7b4222f0fa28c9c80cad2fd7985d7c3e86"
+    url = "https://github.com/JuliaBinaryWrappers/hyperfine_jll.jl/releases/download/hyperfine-v1.15.0+0/hyperfine.v1.15.0.x86_64-w64-mingw32.tar.gz"
